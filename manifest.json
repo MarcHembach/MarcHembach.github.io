@@ -1,6 +1,6 @@
 {
-    "name": "Marc Hembach",
-    "short_name": "Marc Hembach",
+    "name": "flutter_profile",
+    "short_name": "flutter_profile",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
