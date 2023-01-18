@@ -64346,8 +64346,8 @@ A.G0.prototype={
 H(a){var s=null
 return new A.or(1.23,A.eR(s,A.eP(A.a([new A.ir(2,s),new A.C0(new A.ot("assets/images/1631016591753.jpg",s,s),50,s),new A.ir(1,s),A.ct("Marc Hembach",s,s,A.af(a).p3.x,s,s),A.ct("TeamLead Citizen Developer \n navacom",s,s,A.eg(s,s,s,s,s,s,s,s,s,s,s,s,s,s,B.bS,s,1.5,!0,s,s,s,s,s,s,s,s),B.kv,s),new A.ir(2,s)],t.p),B.a3,B.M),B.o,new A.n(4280558640),s,s,s,s,s,s,s,s,s),s)}}
 A.xl.prototype={
-H(a){var s=null,r=t.p
-return new A.E5(A.alT(!0,A.eP(A.a([new A.G0(s),A.mc(A.ahm(A.eP(A.a([new A.op("Residence","Germany",s),new A.op("City","Cologne",s),new A.op("Age","29",s),new A.IR(s),A.dL(s,20,s),new A.CP(s),new A.Fm(s),A.Uj(),A.dL(s,10,s),new A.Jm(new A.a4_(),s,s,s,s,B.o,s,!1,s,A.akx(B.P,A.jx(A.a([A.ct("DOWNLOAD CV",s,s,A.eg(s,s,A.af(a).p3.y.b,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),A.dL(s,s,10),A.Jh("assets/icons/download.svg")],r),B.a3,B.M,B.az),B.o,B.l5),s),A.eR(s,A.jx(A.a([new A.ir(1,s),A.F5(s,A.Jh("assets/icons/linkedin.svg"),s,A.aCc(),s),A.F5(s,A.Jh("assets/icons/github.svg"),s,A.aCd(),s),A.F5(s,A.Jh("assets/icons/twitter.svg"),s,new A.a40(),s),new A.ir(1,s)],r),B.a3,B.M,B.az),B.o,new A.n(4280558638),s,s,s,s,new A.be(0,20,0,0),s,s,s,s)],r),B.a3,B.M),new A.be(20,20,20,20),B.aS),1)],r),B.a3,B.M),!0),s)}}
+H(a){var s=null,r="assets/icons/github.svg",q=t.p
+return new A.E5(A.alT(!0,A.eP(A.a([new A.G0(s),A.mc(A.ahm(A.eP(A.a([new A.op("Residence","Germany",s),new A.op("City","Cologne",s),new A.op("Age","29",s),new A.IR(s),A.dL(s,20,s),new A.CP(s),new A.Fm(s),A.Uj(),A.dL(s,10,s),new A.Jm(new A.a4_(),s,s,s,s,B.o,s,!1,s,A.akx(B.P,A.jx(A.a([A.ct("DOWNLOAD CV",s,s,A.eg(s,s,A.af(a).p3.y.b,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),A.dL(s,s,10),A.Jh("assets/icons/download.svg")],q),B.a3,B.M,B.az),B.o,B.l5),s),A.eR(s,A.jx(A.a([new A.ir(1,s),A.F5(s,A.Jh(r),s,A.aCc(),s),A.F5(s,A.Jh(r),s,A.aCd(),s),A.F5(s,A.Jh("assets/icons/twitter.svg"),s,new A.a40(),s),new A.ir(1,s)],q),B.a3,B.M,B.az),B.o,new A.n(4280558638),s,s,s,s,new A.be(0,20,0,0),s,s,s,s)],q),B.a3,B.M),new A.be(20,20,20,20),B.aS),1)],q),B.a3,B.M),!0),s)}}
 A.a4_.prototype={
 $0(){B.vV.Kf(window,"assets/icons/CV_Marc_Hembach.pdf","Download")},
 $S:0}
@@ -72158,3 +72158,4 @@ a(b.target)}for(var r=0;r<s.length;++r)s[r].addEventListener("load",onLoad,false
 var s=A.af0
 if(typeof dartMainRunner==="function")dartMainRunner(s,[])
 else s([])})})()
+//# sourceMappingURL=main.dart.js.map
